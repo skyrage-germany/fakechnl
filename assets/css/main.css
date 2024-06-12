@@ -1,0 +1,215 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+body {
+    background-color: black;
+    margin: 0;
+    color: rgba(244, 244, 244, 1);
+    font-family: "DM Sans", sans-serif;
+}
+
+li {
+    list-style: none;
+    line-height: 4px
+}
+
+li h1 {
+    line-height: 1;
+}
+
+.hidden {
+    display: none;
+}
+
+a:link {color:#EE0F0F; transition: 0.2s;}
+a:visited {color:#9a0c0c;}
+a:hover {color: rgb(255, 105, 105); transition: 0.2s;}
+
+.versioninfo {
+    position: fixed;
+    bottom: 4px;
+    right: 32px;
+    float: right;
+    z-index: 2;
+
+    color:rgba(255, 255, 255, 0.2);
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    user-select: none;
+    transition: 0.1s;
+}
+
+.versioninfo:hover{color: maroon; transition: 0.1s; cursor:help}
+
+.modal {
+    background-color: rgba(14, 16, 19, 1);
+    color: white;
+    border-radius: 12px;
+    border: 0;
+    padding: 24px;
+}
+
+.modal_top {
+    text-align: right;
+    padding: 0;
+}
+
+.modal_top button {
+    background-color: transparent;
+    border: 0;
+    font-size: 24px;
+    font-weight: 100;
+    padding: 0;
+    line-height: 18px;
+
+    color: white;
+    transition: 0.1s;
+    outline: none;
+}
+
+.modal_top button:hover {
+    color: red;
+    font-weight: 200;
+    transition: 0.1s;
+    cursor: pointer;
+}
+
+dialog::backdrop {background-color: rgba(0, 0, 0, 0.5);}
+
+.topbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    gap: 24px;
+    height: 56px;
+    padding-block: 8px;
+    padding-inline: 24px;
+    background-color: rgba(14, 16, 19, 1);
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
+}
+
+.icon {width: 32px}
+.groupicon {
+    height: 12px;
+}
+
+.search {
+    box-sizing: border-box;
+    width: 100%;
+    height: 40px;
+    border: 0;
+    border-radius: 20px;
+    padding: 12px;
+    background-color: rgba(23, 24, 27, 1);
+    color: rgba(244, 244, 244, 1);
+    outline: none;
+}
+
+.menubutton {
+    padding: 0;
+    background-color: transparent;
+    border: 0;
+    color:#5F6368;
+    transition: 0.2s
+}
+
+.menubutton:hover {
+    color:#9a0c0c;
+    cursor: pointer;
+    transition: 0.2s
+}
+
+.main {
+    display:grid;
+    gap: 12px;
+    padding: 24px;
+    padding-top: 76px;
+}
+
+.item {
+    display: flex;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100px;
+    padding: 12px;
+    border-radius: 12px;
+    background-color: rgba(14, 16, 19, 1);
+    transition: 0.1s;
+}
+
+.channelnumbercontainer {
+    width: 24px;
+    text-align: center;
+}
+
+.channeldetails {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.buttoncontainer {
+    display: inline-block;  /* Changed from display: flex */
+    align-items: end;
+    margin-left: auto;
+    margin-top: auto;
+}
+
+.buttoncontainer button {
+    border: none;
+    font-size: 0;
+    background-color: #EE0F0F;
+    padding: 5px;
+    padding-inline: 10px;
+    border-radius: 8px;
+    transition: 0.2s;
+    color: white;
+}
+
+.buttoncontainer button:hover {
+    background-color:#9a0c0c;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.buttoncontainer svg {
+    width: 16px;
+}
+
+.modalbutton {
+    border: none;
+    background-color: #EE0F0F;
+    padding: 4px;
+    padding-inline: 10px;
+    border-radius: 8px;
+    transition: 0.2s;
+    color: white;
+    font-family: "DM Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.modalbutton:hover {
+    background-color:#9a0c0c;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.channelicon{width: 76px; border-radius: 12px;}
+.item p{font-size: 12px; color: rgba(255, 255, 255, 0.5);}
+.item h1{font-size: 20px;}
+.item:hover {background-color: rgb(19, 14, 14); transition: 0.1s}
+
+::-moz-selection { /* Code for Firefox */
+    color: white;
+    background: red;
+}
+  
+::selection {
+    color: white;
+    background: red;
+}

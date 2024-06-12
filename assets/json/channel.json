@@ -1,0 +1,226 @@
+[
+    {
+        "channel_number": "001",
+        "name": "pixyl",
+        "icon": "pixyl",
+        "group_icon": "none",
+        "link": "watch/pixyl"
+    },
+    {
+        "channel_number": "002",
+        "name": "DoneBetter",
+        "icon": "donebetter",
+        "group_icon": "none",
+        "link": "watch/donebetter"
+    },
+    {
+        "channel_number": "003",
+        "name": "Better Than Challenge",
+        "icon": "btc",
+        "group_icon": "none",
+        "link": "watch/btc"
+    },
+    {
+        "channel_number": "004",
+        "name": "DocTV",
+        "icon": "doctv",
+        "group_icon": "none",
+        "link": "watch/doctv"
+    },
+    {
+        "channel_number": "005",
+        "name": "Debug",
+        "icon": "debug",
+        "group_icon": "ong",
+        "link": "watch/debug"
+    },
+    {
+        "channel_number": "006",
+        "name": "CN Extras",
+        "icon": "cnextras",
+        "group_icon": "none",
+        "link": "watch/cnextras"
+    },
+    {
+        "channel_number": "007",
+        "name": "Boomerang Reborn",
+        "icon": "boomreborn",
+        "group_icon": "none",
+        "link": "watch/boomreborn"
+    },
+    {
+        "channel_number": "008",
+        "name": "dijit",
+        "icon": "dijit",
+        "group_icon": "ong",
+        "link": "watch/dijit"
+    },
+    {
+        "channel_number": "009",
+        "name": "Chroma",
+        "icon": "chroma",
+        "group_icon": "ong",
+        "link": "watch/chroma"
+    },
+    {
+        "channel_number": "010",
+        "name": "Nickelodeon Jeremy",
+        "icon": "nickjeremy",
+        "group_icon": "none",
+        "link": "watch/nickjeremy"
+    },
+    {
+        "channel_number": "011",
+        "name": "Disney Channel Jeremy",
+        "icon": "disneyjeremy",
+        "group_icon": "none",
+        "link": "watch/disneyjeremy"
+    },
+    {
+        "channel_number": "012",
+        "name": "CN MENA+",
+        "icon": "cnmena+",
+        "group_icon": "none",
+        "link": "watch/cnmena+"
+    },
+    {
+        "channel_number": "013",
+        "name": "BOOM!",
+        "icon": "boom",
+        "group_icon": "none",
+        "link": "watch/boom"
+    },
+    {
+        "channel_number": "014",
+        "name": "TTMG",
+        "icon": "ttmg",
+        "group_icon": "none",
+        "link": "watch/ttmg"
+    },
+    {
+        "channel_number": "015",
+        "name": "soul",
+        "icon": "soul",
+        "group_icon": "none",
+        "link": "watch/soul"
+    },
+    {
+        "channel_number": "016",
+        "name": "EVO",
+        "icon": "evo",
+        "group_icon": "none",
+        "link": "watch/evo"
+    },
+    {
+        "channel_number": "022",
+        "name": "Sunshine",
+        "icon": "sunshine",
+        "group_icon": "ong",
+        "link": "watch/sunshine"
+    },
+    {
+        "channel_number": "023",
+        "name": "Sunshine JR",
+        "icon": "sunshinejr",
+        "group_icon": "ong",
+        "link": "watch/sunshinejr"
+    },
+    {
+        "channel_number": "024",
+        "name": "Animania",
+        "icon": "animania",
+        "group_icon": "ong",
+        "link": "watch/animania"
+    },
+    {
+        "channel_number": "069",
+        "name": "CN Plus",
+        "icon": "cn",
+        "group_icon": "none",
+        "link": "watch/cnplus"
+    },
+    {
+        "channel_number": "071",
+        "name": "Hilarity",
+        "icon": "hilarity",
+        "group_icon": "none",
+        "link": "watch/hilarity"
+    },
+    {
+        "channel_number": "072",
+        "name": "Toomania",
+        "icon": "toomania",
+        "group_icon": "none",
+        "link": "watch/toomania"
+    },
+    {
+        "channel_number": "073",
+        "name": "ONIX",
+        "icon": "onix",
+        "group_icon": "none",
+        "link": "watch/onix"
+    },
+    {
+        "channel_number": "101",
+        "name": "Shocker",
+        "icon": "shocker",
+        "group_icon": "none",
+        "link": "watch/shocker"
+    },
+    {
+        "channel_number": "150",
+        "name": "Placid",
+        "icon": "placid",
+        "group_icon": "none",
+        "link": "watch/placid"
+    },
+    {
+        "channel_number": "202",
+        "name": "2x2_eng",
+        "icon": "2x2",
+        "group_icon": "none",
+        "link": "watch/2x2"
+    },
+    {
+        "channel_number": "207",
+        "name": "OTVN",
+        "icon": "otvn",
+        "group_icon": "none",
+        "link": "watch/otvn"
+    },
+    {
+        "channel_number": "296",
+        "name": "CN Deluxe",
+        "icon": "cndeluxe",
+        "group_icon": "none",
+        "link": "watch/cndeluxe"
+    },
+    {
+        "channel_number": "365",
+        "name": "ok!",
+        "icon": "ok",
+        "group_icon": "none",
+        "link": "watch/ok"
+    },
+    {
+        "channel_number": "420",
+        "name": "Coming Soon",
+        "icon": "soon",
+        "group_icon": "none",
+        "link": "https://www.youtube.com/watch?v=9ahZMLgeIjw"
+    },
+    {
+        "channel_number": "666",
+        "name": "CN U",
+        "icon": "cnu",
+        "group_icon": "none",
+        "link": "watch/cnu"
+    },
+    {
+        "channel_number": "999",
+        "name": "samm's project",
+        "icon": "default",
+        "group_icon": "none",
+        "link": "watch/idk"
+    }
+]
